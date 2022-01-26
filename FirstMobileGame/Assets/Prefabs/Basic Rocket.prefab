@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8176642920418988439
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8543094161987780169, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094161987780171, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 10301, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 8543094161987780172, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510818, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_Name
+      value: Basic Rocket
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510821, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: speedMax
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510821, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: speedMin
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510823, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510823, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510823, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510823, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510823, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510823, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510823, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510823, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510823, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510823, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510823, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510824, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510824, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: maxRecoil
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510824, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: minRecoil
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 8543094162999510824, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
+      propertyPath: deathParticles
+      value: 
+      objectReference: {fileID: 537584174824210294, guid: 0fb1e3714dcf9e74faaeab65c1f06f3e, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
