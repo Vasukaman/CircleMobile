@@ -81,11 +81,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8543094162999510824, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
       propertyPath: maxRecoil
-      value: 150
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 8543094162999510824, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
       propertyPath: minRecoil
-      value: 70
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8543094162999510824, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
       propertyPath: deathParticles

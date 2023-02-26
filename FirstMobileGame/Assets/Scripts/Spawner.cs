@@ -57,12 +57,17 @@ public class Spawner : MonoBehaviour, IScoreChangeAffected
 
 	void Start()
     {
-		Main.RestartEnemyCount();
-		Instance = this;
-		maxEnemyCount = startEnemyCount;
 
-	
-    }
+		Instance = this;
+
+	}
+
+	public void StartSpawner()
+    {
+		Main.RestartEnemyCount();
+		
+		maxEnemyCount = startEnemyCount;
+	}
 
     // Update is called once per frame
     void Update()

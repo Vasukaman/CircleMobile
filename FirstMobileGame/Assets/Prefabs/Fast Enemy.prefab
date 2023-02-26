@@ -165,11 +165,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8543094162999510824, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
       propertyPath: maxRecoil
-      value: 500
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 8543094162999510824, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
       propertyPath: minRecoil
-      value: 100
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 8543094162999510824, guid: 8a10580a8a76fe149ad0c4c657625df8, type: 3}
       propertyPath: scoreForKill
